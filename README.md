@@ -1,2 +1,27 @@
 # About
-Start here - information about the community
+This page contains basic information and reasoning for the community. 
+
+## What?
+This open community focuses on developing X-Road and X-Road SDK in the spirit of open source. All code and other results are open source or open information. There is no fee to enter. Consider this as open invitation for all local X-Road developer communities around the world to join. At the moment (9/2015) community contains people from Estonia and Finland. 
+
+**X-Road SDK** is developer's package which contains for example integration patterns and code examples, API standards, Code examples for basic operations in X-Road including communication with Security Server. It's the primary toolkit to get started with utilizing X-Road in service and application development. 
+
+It’s free and open. Join the community https://joinxroadcommunity.herokuapp.com/
+
+Background story behind this community can be found from ![Birth of Joint X-Road Community](https://tarinoitadigitalisaatiosta.wordpress.com/2015/09/04/birth-of-joint-x-road-community/)
+
+## For whom?
+All developers who are interested about X-Road are more than welcome. There are some local X-Road development related communities in diaspora around the world. For those Joint X-Road community is an opportunity to be part of larger global X-Road developer community. 
+
+
+## Why?
+
+What will be in the community Github in the first phase are:
+
+* X-Road Integration patterns. Documents will be elsewhere too and writing process takes place in coauthoring platform overleaf.com, which has github connection)
+* Code examples for basic operations in X-Road including communication with Security Server
+* Code examples related to integration patterns
+
+Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned above.
+
+**Over time community should become the primary place for all X-Road technical discussions.**
