@@ -6,13 +6,12 @@ This open community focuses on developing X-Road and X-Road SDK in the spirit of
 
 **X-Road SDK** is developer's package which contains for example integration patterns and code examples, API standards, Code examples for basic operations in X-Road including communication with Security Server. It's the primary toolkit to get started with utilizing X-Road in service and application development. 
 
-It’s free and open. Join the community https://joinxroadcommunity.herokuapp.com/
-
 Background story behind this community can be found from ![Birth of Joint X-Road Community](https://tarinoitadigitalisaatiosta.wordpress.com/2015/09/04/birth-of-joint-x-road-community/)
 
 ## For whom?
 All developers who are interested about X-Road are more than welcome. There are some local X-Road development related communities in diaspora around the world. For those Joint X-Road community is an opportunity to be part of larger global X-Road developer community. 
 
+Community uses Slack for day to day communication. It’s free and open. Join the community Slack from https://joinxroadcommunity.herokuapp.com/
 
 ## Why?
 
