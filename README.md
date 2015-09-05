@@ -13,6 +13,8 @@ Background story behind this community can be found from ![Birth of Joint X-Road
 ## For whom?
 All developers who are interested about X-Road are more than welcome. There are some local X-Road development related communities in diaspora around the world. For those Joint X-Road community is an opportunity to be part of larger global X-Road developer community. 
 
+We are interested in expanding X-Road, creating tools and material to ease X-Road onboarding for all. Sharing is caring. 
+
 Community uses Slack for day to day communication. It’s free and open. Join the community Slack from https://joinxroadcommunity.herokuapp.com/
 
 ## Why?
@@ -22,6 +24,8 @@ What will be in the community Github in the first phase are:
 * X-Road Integration patterns. Documents will be elsewhere too and writing process takes place in coauthoring platform overleaf.com, which has github connection)
 * Code examples for basic operations in X-Road including communication with Security Server
 * Code examples related to integration patterns
+
+Integration patterns and code examples are beginning of process which aims at creating so called developer package or SDK for X-Road. Developer package should possibly include API standards (adopted from UK most likely), X-Road interface description and sample messages.
 
 Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned above.
 
