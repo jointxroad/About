@@ -1,4 +1,5 @@
 # About
+![Joint X-Road community logo](https://raw.githubusercontent.com/jointxroad/About/master/images/jointxroad-logo.png)
 This page contains basic information and reasoning for the community. 
 
 ## What?
