@@ -34,5 +34,5 @@ What will be in the community Github in the first phase are:
 Integration patterns and code examples are beginning of process which aims at creating so called developer package or SDK for X-Road. Developer package should possibly include API standards (adopted from UK most likely), X-Road interface description and sample messages.
 
 ## Roles
-* [Patterns[(https://github.com/jointxroad/patterns) coordinator: Andres Kütt
+* [Patterns](https://github.com/jointxroad/patterns) coordinator: Andres Kütt
 * Community Manager: coming Sept 2015
