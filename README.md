@@ -6,6 +6,10 @@ This page contains basic information and reasoning for the community.
 ## What?
 This open community focuses on developing X-Road and X-Road SDK in the spirit of open source. All code and other results are open source or open information. There is no fee to enter. Consider this as open invitation for all local X-Road developer communities around the world to join. At the moment (9/2015) community contains people from Estonia and Finland. 
 
+Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned above.
+
+**Over time community should become the primary place for all X-Road technical discussions.**
+
 Initiators of this community were: Andres Kütt (RIA, Architect), Heiko Vainsalu (RIA, X-Road Area Manager), Petteri Kivimäki (Systems manager, Population Register Centre), Jarkko Moilanen (Senior Advisor, Ministry of Education and Culture), Taija Björklund(Project coordinator, Sampo Software Oy).
 
 **X-Road SDK** is developer's package which contains for example integration patterns and code examples, API standards, Code examples for basic operations in X-Road including communication with Security Server. It's the primary toolkit to get started with utilizing X-Road in service and application development. 
@@ -29,6 +33,6 @@ What will be in the community Github in the first phase are:
 
 Integration patterns and code examples are beginning of process which aims at creating so called developer package or SDK for X-Road. Developer package should possibly include API standards (adopted from UK most likely), X-Road interface description and sample messages.
 
-Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned above.
-
-**Over time community should become the primary place for all X-Road technical discussions.**
+## Roles
+* [Patterns[(https://github.com/jointxroad/patterns) coordinator: Andres Kütt
+* Community Manager: coming Sept 2015
