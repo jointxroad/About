@@ -6,7 +6,7 @@ This page contains basic information and reasoning for the community.
 ## What?
 This open community focuses on developing X-Road and X-Road SDK in the spirit of open source. All code and other results are open source or open information. There is no fee to enter. Consider this as open invitation for all local X-Road developer communities around the world to join. At the moment (9/2015) community contains people from Estonia and Finland. 
 
-Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned above.
+Community is not the place for trolling or official X-Road technical support channel. It focuses on the items mentioned below.
 
 **Over time community should become the primary place for all X-Road technical discussions.**
 
