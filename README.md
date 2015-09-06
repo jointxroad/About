@@ -36,3 +36,4 @@ Integration patterns and code examples are beginning of process which aims at cr
 ## Roles
 * [Patterns](https://github.com/jointxroad/patterns) coordinator: Andres Kütt
 * Community Manager: coming Sept 2015
+* X-Road evangelist in Finland: Jarkko Moilanen
