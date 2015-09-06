@@ -27,7 +27,7 @@ Community uses Slack for day to day communication. It’s free and open. Join th
 
 What will be in the community Github in the first phase are:
 
-* X-Road Integration patterns. Documents will be elsewhere too and writing process takes place in coauthoring platform overleaf.com, which has github connection)
+* X-Road Integration patterns. Documents will be elsewhere too and [ources are in github repo patterns](https://github.com/jointxroad/patterns))
 * Code examples for basic operations in X-Road including communication with Security Server
 * Code examples related to integration patterns
 
